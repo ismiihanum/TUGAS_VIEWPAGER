@@ -4,11 +4,76 @@
              android:layout_width="match_parent"
              android:layout_height="match_parent"
              tools:context=".third">
+    <LinearLayout
 
-
-    <TextView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:text="@string/hello_blank_fragment"/>
+            android:orientation="vertical">
+        <TextView
+                android:layout_marginTop="10dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Jadwal Perkuliahan"
+                android:textColor="#000000"
+                android:textStyle="bold"
+                android:textSize="25sp"/>
+        <TextView
+                android:layout_marginTop="10dp"
+                android:layout_gravity="left"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Selasa"
+                android:textColor="#000000"
+                android:textStyle="bold"
+                android:textSize="15sp"/>
+        <TextView
+                android:layout_marginTop="10dp"
+                android:layout_marginHorizontal="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000000"
+                android:text="                              07.30     Teknologi Animasi
+                              10.00     Sistem Informasi Geografis
+                              15.30     Sistem Multimedia"
+                android:textSize="12sp"/>
+        <TextView
+                android:layout_marginTop="10dp"
+                android:layout_gravity="left"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000000"
+                android:text="Rabu"
+                android:textStyle="bold"
+                android:textSize="15sp"/>
+        <TextView
+                android:layout_marginTop="10dp"
+                android:layout_marginHorizontal="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000000"
+                android:text="                             15.30     Mobile Programming
+                              05.00       Wireless Networking"
 
+                android:textSize="12sp"/>
+        <TextView
+                android:layout_marginTop="10dp"
+                android:layout_gravity="left"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000000"
+                android:text="Kamis"
+                android:textStyle="bold"
+                android:textSize="15sp"/>
+        <TextView
+                android:layout_marginTop="10dp"
+                android:layout_marginHorizontal="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000000"
+                android:text="                            10.00     Teori Graf dan Otomata
+                            13.00        Sistem Informasi Geografis (Praktek)"
+                android:textSize="12sp"/>
+
+    </LinearLayout>
 </FrameLayout>

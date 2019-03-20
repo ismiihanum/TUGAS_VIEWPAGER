@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\TGS SMT 6\MOBILE PROGRAMMING\tugas-viewpager-master\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\TGS SMT 6\MOBILE PROGRAMMING\tugas-viewpager-master\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\TGS SMT 6\MOBILE PROGRAMMING\tugas-viewpager-master\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\TGS SMT 6\MOBILE PROGRAMMING\tugas-viewpager-master\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\24d3e7fc2f80e2ff2f1447dd82cfab01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c05b85308fdfa0c3233668429ea7bcbe\AndroidManifest.xml:2:1-11:12
+MERGED from [com.ogaclejapan.smarttablayout:library:1.7.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\library-1.7.0.aar\c428e7aefcb353e48f116f166bf8326b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.ogaclejapan.smarttablayout:utils-v4:1.7.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\utils-v4-1.7.0.aar\72b4276d2a54be3aa7d7b5002a4ce457\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\41ffa85387760a870aee82d4da489343\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\4f4bd562f5f8934630f082c28acae998\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\77cb0805f02a4107c21431b518795025\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8d25f1f6ec716f0b9831dbafba5e8de3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\0ea5a3834b48340f114200149eab58bb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\591c8f5e6eaa841c80e1c322fa26b24b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\a62f27c9e958d45ac5111d532e06239d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\1b82370d95c45bf3720906cbbbe1ad49\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\f5e1ca23d08c836054d8c29a25307d2b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e6914084234d2b984dbb6745c29cfd80\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\55ba5e586bae1430832f5c9e88f5d92c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\450ee189599f8e3c8008342cddc7ebc3\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\TGS SMT 6\MOBILE PROGRAMMING\tugas-viewpager-master\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\TGS SMT 6\MOBILE PROGRAMMING\tugas-viewpager-master\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\TGS SMT 6\MOBILE PROGRAMMING\tugas-viewpager-master\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from D:\TGS SMT 6\MOBILE PROGRAMMING\tugas-viewpager-master\app\src\main\AndroidManifest.xml:3:11-38
+		INJECTED from D:\TGS SMT 6\MOBILE PROGRAMMING\tugas-viewpager-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\TGS SMT 6\MOBILE PROGRAMMING\tugas-viewpager-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\TGS SMT 6\MOBILE PROGRAMMING\tugas-viewpager-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\TGS SMT 6\MOBILE PROGRAMMING\tugas-viewpager-master\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\TGS SMT 6\MOBILE PROGRAMMING\tugas-viewpager-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\TGS SMT 6\MOBILE PROGRAMMING\tugas-viewpager-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\TGS SMT 6\MOBILE PROGRAMMING\tugas-viewpager-master\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\TGS SMT 6\MOBILE PROGRAMMING\tugas-viewpager-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\TGS SMT 6\MOBILE PROGRAMMING\tugas-viewpager-master\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\TGS SMT 6\MOBILE PROGRAMMING\tugas-viewpager-master\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c05b85308fdfa0c3233668429ea7bcbe\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c05b85308fdfa0c3233668429ea7bcbe\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from D:\TGS SMT 6\MOBILE PROGRAMMING\tugas-viewpager-master\app\src\main\AndroidManifest.xml:10:13-39
+	android:label
+		ADDED from D:\TGS SMT 6\MOBILE PROGRAMMING\tugas-viewpager-master\app\src\main\AndroidManifest.xml:8:13-45
+	android:roundIcon
+		ADDED from D:\TGS SMT 6\MOBILE PROGRAMMING\tugas-viewpager-master\app\src\main\AndroidManifest.xml:9:13-69
+	android:icon
+		ADDED from D:\TGS SMT 6\MOBILE PROGRAMMING\tugas-viewpager-master\app\src\main\AndroidManifest.xml:7:13-47
+	android:allowBackup
+		ADDED from D:\TGS SMT 6\MOBILE PROGRAMMING\tugas-viewpager-master\app\src\main\AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from D:\TGS SMT 6\MOBILE PROGRAMMING\tugas-viewpager-master\app\src\main\AndroidManifest.xml:11:13-44
+activity#com.example.tugas.MainActivity
+ADDED from D:\TGS SMT 6\MOBILE PROGRAMMING\tugas-viewpager-master\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\TGS SMT 6\MOBILE PROGRAMMING\tugas-viewpager-master\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\TGS SMT 6\MOBILE PROGRAMMING\tugas-viewpager-master\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\TGS SMT 6\MOBILE PROGRAMMING\tugas-viewpager-master\app\src\main\AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from D:\TGS SMT 6\MOBILE PROGRAMMING\tugas-viewpager-master\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\TGS SMT 6\MOBILE PROGRAMMING\tugas-viewpager-master\app\src\main\AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from D:\TGS SMT 6\MOBILE PROGRAMMING\tugas-viewpager-master\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from D:\TGS SMT 6\MOBILE PROGRAMMING\tugas-viewpager-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\TGS SMT 6\MOBILE PROGRAMMING\tugas-viewpager-master\app\src\main\AndroidManifest.xml
+INJECTED from D:\TGS SMT 6\MOBILE PROGRAMMING\tugas-viewpager-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\24d3e7fc2f80e2ff2f1447dd82cfab01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\24d3e7fc2f80e2ff2f1447dd82cfab01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c05b85308fdfa0c3233668429ea7bcbe\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c05b85308fdfa0c3233668429ea7bcbe\AndroidManifest.xml:5:5-7:41
+MERGED from [com.ogaclejapan.smarttablayout:library:1.7.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\library-1.7.0.aar\c428e7aefcb353e48f116f166bf8326b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.ogaclejapan.smarttablayout:library:1.7.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\library-1.7.0.aar\c428e7aefcb353e48f116f166bf8326b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.ogaclejapan.smarttablayout:utils-v4:1.7.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\utils-v4-1.7.0.aar\72b4276d2a54be3aa7d7b5002a4ce457\AndroidManifest.xml:7:5-9:41
+MERGED from [com.ogaclejapan.smarttablayout:utils-v4:1.7.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\utils-v4-1.7.0.aar\72b4276d2a54be3aa7d7b5002a4ce457\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\41ffa85387760a870aee82d4da489343\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\41ffa85387760a870aee82d4da489343\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\4f4bd562f5f8934630f082c28acae998\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\4f4bd562f5f8934630f082c28acae998\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\77cb0805f02a4107c21431b518795025\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\77cb0805f02a4107c21431b518795025\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8d25f1f6ec716f0b9831dbafba5e8de3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8d25f1f6ec716f0b9831dbafba5e8de3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\0ea5a3834b48340f114200149eab58bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\0ea5a3834b48340f114200149eab58bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\591c8f5e6eaa841c80e1c322fa26b24b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\591c8f5e6eaa841c80e1c322fa26b24b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\a62f27c9e958d45ac5111d532e06239d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\a62f27c9e958d45ac5111d532e06239d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\1b82370d95c45bf3720906cbbbe1ad49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\1b82370d95c45bf3720906cbbbe1ad49\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\f5e1ca23d08c836054d8c29a25307d2b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\f5e1ca23d08c836054d8c29a25307d2b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e6914084234d2b984dbb6745c29cfd80\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e6914084234d2b984dbb6745c29cfd80\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\55ba5e586bae1430832f5c9e88f5d92c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\55ba5e586bae1430832f5c9e88f5d92c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\450ee189599f8e3c8008342cddc7ebc3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\450ee189599f8e3c8008342cddc7ebc3\AndroidManifest.xml:20:5-44
+INJECTED from D:\TGS SMT 6\MOBILE PROGRAMMING\tugas-viewpager-master\app\src\main\AndroidManifest.xml
+INJECTED from D:\TGS SMT 6\MOBILE PROGRAMMING\tugas-viewpager-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\TGS SMT 6\MOBILE PROGRAMMING\tugas-viewpager-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\TGS SMT 6\MOBILE PROGRAMMING\tugas-viewpager-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\TGS SMT 6\MOBILE PROGRAMMING\tugas-viewpager-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\TGS SMT 6\MOBILE PROGRAMMING\tugas-viewpager-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\TGS SMT 6\MOBILE PROGRAMMING\tugas-viewpager-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\TGS SMT 6\MOBILE PROGRAMMING\tugas-viewpager-master\app\src\main\AndroidManifest.xml

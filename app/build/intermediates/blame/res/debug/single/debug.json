@@ -36,6 +36,10 @@
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\24d3e7fc2f80e2ff2f1447dd82cfab01\\res\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png"
     },
     {
+        "merged": "D:\\TGS SMT 6\\MOBILE PROGRAMMING\\tugas-viewpager-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc.jpg.flat",
+        "source": "D:\\TGS SMT 6\\MOBILE PROGRAMMING\\tugas-viewpager-master\\app\\src\\main\\res\\drawable\\abc.jpg"
+    },
+    {
         "merged": "D:\\TGS SMT 6\\MOBILE PROGRAMMING\\tugas-viewpager-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\24d3e7fc2f80e2ff2f1447dd82cfab01\\res\\drawable-xxhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
     },
@@ -616,6 +620,10 @@
         "source": "D:\\TGS SMT 6\\MOBILE PROGRAMMING\\tugas-viewpager-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
+        "merged": "D:\\TGS SMT 6\\MOBILE PROGRAMMING\\tugas-viewpager-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ibu.jpg.flat",
+        "source": "D:\\TGS SMT 6\\MOBILE PROGRAMMING\\tugas-viewpager-master\\app\\src\\main\\res\\drawable\\ibu.jpg"
+    },
+    {
         "merged": "D:\\TGS SMT 6\\MOBILE PROGRAMMING\\tugas-viewpager-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_tab_indicator_material.xml.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\24d3e7fc2f80e2ff2f1447dd82cfab01\\res\\drawable\\abc_tab_indicator_material.xml"
     },
@@ -744,6 +752,10 @@
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\24d3e7fc2f80e2ff2f1447dd82cfab01\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
+        "merged": "D:\\TGS SMT 6\\MOBILE PROGRAMMING\\tugas-viewpager-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ayah.jpg.flat",
+        "source": "D:\\TGS SMT 6\\MOBILE PROGRAMMING\\tugas-viewpager-master\\app\\src\\main\\res\\drawable\\ayah.jpg"
+    },
+    {
         "merged": "D:\\TGS SMT 6\\MOBILE PROGRAMMING\\tugas-viewpager-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_title_material.xml.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\24d3e7fc2f80e2ff2f1447dd82cfab01\\res\\layout\\abc_alert_dialog_title_material.xml"
     },
@@ -758,6 +770,10 @@
     {
         "merged": "D:\\TGS SMT 6\\MOBILE PROGRAMMING\\tugas-viewpager-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\1b82370d95c45bf3720906cbbbe1ad49\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\TGS SMT 6\\MOBILE PROGRAMMING\\tugas-viewpager-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ayahibu.jpg.flat",
+        "source": "D:\\TGS SMT 6\\MOBILE PROGRAMMING\\tugas-viewpager-master\\app\\src\\main\\res\\drawable\\ayahibu.jpg"
     },
     {
         "merged": "D:\\TGS SMT 6\\MOBILE PROGRAMMING\\tugas-viewpager-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_indicator_material.xml.flat",
@@ -794,6 +810,10 @@
     {
         "merged": "D:\\TGS SMT 6\\MOBILE PROGRAMMING\\tugas-viewpager-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_a.jpg.flat",
         "source": "D:\\TGS SMT 6\\MOBILE PROGRAMMING\\tugas-viewpager-master\\app\\src\\main\\res\\drawable\\a.jpg"
+    },
+    {
+        "merged": "D:\\TGS SMT 6\\MOBILE PROGRAMMING\\tugas-viewpager-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bareng.jpg.flat",
+        "source": "D:\\TGS SMT 6\\MOBILE PROGRAMMING\\tugas-viewpager-master\\app\\src\\main\\res\\drawable\\bareng.jpg"
     },
     {
         "merged": "D:\\TGS SMT 6\\MOBILE PROGRAMMING\\tugas-viewpager-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_item_layout.xml.flat",
@@ -1048,6 +1068,10 @@
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\24d3e7fc2f80e2ff2f1447dd82cfab01\\res\\anim\\abc_slide_out_top.xml"
     },
     {
+        "merged": "D:\\TGS SMT 6\\MOBILE PROGRAMMING\\tugas-viewpager-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ayahadik.jpg.flat",
+        "source": "D:\\TGS SMT 6\\MOBILE PROGRAMMING\\tugas-viewpager-master\\app\\src\\main\\res\\drawable\\ayahadik.jpg"
+    },
+    {
         "merged": "D:\\TGS SMT 6\\MOBILE PROGRAMMING\\tugas-viewpager-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_layout.xml.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\24d3e7fc2f80e2ff2f1447dd82cfab01\\res\\layout\\abc_list_menu_item_layout.xml"
     },
@@ -1192,6 +1216,10 @@
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\24d3e7fc2f80e2ff2f1447dd82cfab01\\res\\drawable-xxhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
     },
     {
+        "merged": "D:\\TGS SMT 6\\MOBILE PROGRAMMING\\tugas-viewpager-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kami.jpg.flat",
+        "source": "D:\\TGS SMT 6\\MOBILE PROGRAMMING\\tugas-viewpager-master\\app\\src\\main\\res\\drawable\\kami.jpg"
+    },
+    {
         "merged": "D:\\TGS SMT 6\\MOBILE PROGRAMMING\\tugas-viewpager-master\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_btn_colored_borderless_text_material.xml.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\24d3e7fc2f80e2ff2f1447dd82cfab01\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
     },
@@ -1258,6 +1286,10 @@
     {
         "merged": "D:\\TGS SMT 6\\MOBILE PROGRAMMING\\tugas-viewpager-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\1b82370d95c45bf3720906cbbbe1ad49\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\TGS SMT 6\\MOBILE PROGRAMMING\\tugas-viewpager-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_adik.jpg.flat",
+        "source": "D:\\TGS SMT 6\\MOBILE PROGRAMMING\\tugas-viewpager-master\\app\\src\\main\\res\\drawable\\adik.jpg"
     },
     {
         "merged": "D:\\TGS SMT 6\\MOBILE PROGRAMMING\\tugas-viewpager-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
@@ -1332,16 +1364,16 @@
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\1b82370d95c45bf3720906cbbbe1ad49\\res\\drawable\\notification_icon_background.xml"
     },
     {
-        "merged": "D:\\TGS SMT 6\\MOBILE PROGRAMMING\\tugas-viewpager-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_search_api_material.xml.flat",
-        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\24d3e7fc2f80e2ff2f1447dd82cfab01\\res\\drawable\\abc_ic_search_api_material.xml"
+        "merged": "D:\\TGS SMT 6\\MOBILE PROGRAMMING\\tugas-viewpager-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\24d3e7fc2f80e2ff2f1447dd82cfab01\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
         "merged": "D:\\TGS SMT 6\\MOBILE PROGRAMMING\\tugas-viewpager-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_focused_holo.9.png.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\24d3e7fc2f80e2ff2f1447dd82cfab01\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
     },
     {
-        "merged": "D:\\TGS SMT 6\\MOBILE PROGRAMMING\\tugas-viewpager-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
-        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\24d3e7fc2f80e2ff2f1447dd82cfab01\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
+        "merged": "D:\\TGS SMT 6\\MOBILE PROGRAMMING\\tugas-viewpager-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_search_api_material.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\24d3e7fc2f80e2ff2f1447dd82cfab01\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
         "merged": "D:\\TGS SMT 6\\MOBILE PROGRAMMING\\tugas-viewpager-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
@@ -1526,6 +1558,10 @@
     {
         "merged": "D:\\TGS SMT 6\\MOBILE PROGRAMMING\\tugas-viewpager-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\24d3e7fc2f80e2ff2f1447dd82cfab01\\res\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\TGS SMT 6\\MOBILE PROGRAMMING\\tugas-viewpager-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item.xml.flat",
+        "source": "D:\\TGS SMT 6\\MOBILE PROGRAMMING\\tugas-viewpager-master\\app\\src\\main\\res\\layout\\list_item.xml"
     },
     {
         "merged": "D:\\TGS SMT 6\\MOBILE PROGRAMMING\\tugas-viewpager-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
