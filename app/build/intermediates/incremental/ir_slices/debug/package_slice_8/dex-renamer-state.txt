@@ -1,4 +1,4 @@
-#Wed Mar 20 20:19:37 ICT 2019
+#Thu Mar 21 02:20:11 ICT 2019
 base.0=D\:\\TGS SMT 6\\MOBILE PROGRAMMING\\tugas-viewpager-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
 path.0=classes.dex
 renamed.0=classes.dex

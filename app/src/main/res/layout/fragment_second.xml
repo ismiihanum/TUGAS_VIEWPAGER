@@ -3,7 +3,7 @@
              xmlns:tools="http://schemas.android.com/tools"
              android:layout_width="match_parent"
              android:layout_height="match_parent"
-             tools:context=".second">
+             tools:context=".fragment.second">
 
 
     <ScrollView
@@ -17,7 +17,7 @@
             android:orientation="vertical">
         <LinearLayout
                 android:orientation="vertical"
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content">
             <TextView
                     android:layout_width="match_parent"
@@ -26,9 +26,8 @@
             </TextView>
             <TextView
                     android:gravity="center"
-                    android:layout_marginTop="10dp"
                     android:layout_gravity="center_horizontal"
-                    android:layout_width="wrap_content"
+                    android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:text="ALBUM KELUARGA"
                     android:textColor="#000000"

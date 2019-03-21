@@ -4,10 +4,13 @@ package com.example.tugas
 import android.os.Bundle
 import android.support.v4.view.ViewPager
 import android.support.v7.app.AppCompatActivity
+import com.example.tugas.fragment.First
+import com.example.tugas.fragment.fourth
+import com.example.tugas.fragment.second
+import com.example.tugas.fragment.third
 import com.ogaclejapan.smarttablayout.SmartTabLayout
 import com.ogaclejapan.smarttablayout.utils.v4.FragmentPagerItemAdapter
 import com.ogaclejapan.smarttablayout.utils.v4.FragmentPagerItems
-import kotlinx.android.synthetic.main.activity_main.*
 
 
 class MainActivity : AppCompatActivity() {
