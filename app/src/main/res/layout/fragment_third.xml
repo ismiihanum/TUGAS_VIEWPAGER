@@ -29,13 +29,30 @@
                 android:textSize="15sp"/>
         <TextView
                 android:layout_marginTop="10dp"
+                android:layout_gravity="left"
                 android:layout_marginHorizontal="5dp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textColor="#000000"
-                android:text="07.30     Teknologi Animasi
-                              10.00     Sistem Informasi Geografis
-                              15.30     Sistem Multimedia"
+                android:text="07.30    Teknologi Animasi "
+                android:textSize="12sp"/>
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_gravity="left"
+            android:layout_marginHorizontal="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:text="10.00     Sistem Informasi Geografis"
+            android:textSize="12sp"/>
+        <TextView
+                android:layout_marginTop="10dp"
+                android:layout_gravity="left"
+                android:layout_marginHorizontal="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000000"
+                android:text="15.30     Sistem Multimedia"
                 android:textSize="12sp"/>
         <TextView
                 android:layout_marginTop="10dp"
@@ -48,13 +65,21 @@
                 android:textSize="15sp"/>
         <TextView
                 android:layout_marginTop="10dp"
+                android:layout_gravity="left"
                 android:layout_marginHorizontal="5dp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textColor="#000000"
-                android:text="15.30     Mobile Programming
-                              17.00      Wireless Networking"
-
+                android:text="15.30     Mobile Programming"
+                android:textSize="12sp"/>
+        <TextView
+                android:layout_marginTop="10dp"
+                android:layout_gravity="left"
+                android:layout_marginHorizontal="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000000"
+                android:text="17.00     Wireless Networking"
                 android:textSize="12sp"/>
         <TextView
                 android:layout_marginTop="10dp"
@@ -67,12 +92,21 @@
                 android:textSize="15sp"/>
         <TextView
                 android:layout_marginTop="10dp"
+                android:layout_gravity="left"
                 android:layout_marginHorizontal="5dp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textColor="#000000"
-                android:text="10.00     Teori Graf dan Otomata
-                              13.00     Sistem Informasi Geografis (Praktek)"
+                android:text="10.00     Teori Graf dan Otomata"
+                android:textSize="12sp"/>
+        <TextView
+                android:layout_marginTop="10dp"
+                android:layout_gravity="left"
+                android:layout_marginHorizontal="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000000"
+                android:text="13.00     Sisten Informasi Geografis (praktik)"
                 android:textSize="12sp"/>
 
     </LinearLayout>
