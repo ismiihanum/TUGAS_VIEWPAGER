@@ -5,6 +5,7 @@
              android:layout_height="match_parent"
              tools:context=".fragment.fourth">
     <ScrollView
+            android:visibility="gone"
             android:layout_width="match_parent"
             android:layout_height="match_parent">
         <LinearLayout
@@ -407,12 +408,13 @@
 
         </LinearLayout>
     </ScrollView>
-
     <android.support.v7.widget.RecyclerView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:id="@+id/rvList"
-    android:visibility="gone">
+            android:id="@+id/rvList">
+
     </android.support.v7.widget.RecyclerView>
+
+
 
 </FrameLayout>

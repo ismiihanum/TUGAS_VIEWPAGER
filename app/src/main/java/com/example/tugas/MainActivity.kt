@@ -23,7 +23,7 @@ class MainActivity : AppCompatActivity() {
                 .add("Profil", First::class.java)
                 .add("Album", second::class.java)
                 .add("Jadwal", third::class.java)
-                .add("fourth", fourth::class.java)
+                .add("Movie", fourth::class.java)
 
                 .create()
         )
