@@ -36,21 +36,21 @@ class fourth : Fragment() {
 
         val recyclerView: RecyclerView = view.findViewById(R.id.rvList)
 
-        val hantuHanum: ApiService = ApiClient.CallHanumHAHAHHA()
-        hantuHanum.getNowPlaying()
-            .subscribeOn(Schedulers.newThread())
-            .observeOn(AndroidSchedulers.mainThread())
-            .subscribe({
-                items.clear()
-                items = it.results as ArrayList<ResultsItem>
-                nowPlayingAdapter = NowPlayingAdapter(activity, items)
-                recyclerView.adapter = nowPlayingAdapter
-                recyclerView.layoutManager = LinearLayoutManager(activity)
-                nowPlayingAdapter.notifyDataSetChanged()
-
-                // siap siap COLOKIN hp nya dulu han, jgn lupa mode debugging nya ya
-
-            })
+//        val hantuHanum: ApiService = ApiClient.CallHanumHAHAHHA()
+//        hantuHanum.getNowPlaying()
+//            .subscribeOn(Schedulers.newThread())
+//            .observeOn(AndroidSchedulers.mainThread())
+//            .subscribe({
+//                items.clear()
+//                items = it.results as ArrayList<ResultsItem>
+//                nowPlayingAdapter = NowPlayingAdapter(activity, items)
+//                recyclerView.adapter = nowPlayingAdapter
+//                recyclerView.layoutManager = LinearLayoutManager(activity)
+//                nowPlayingAdapter.notifyDataSetChanged()
+//
+//                // siap siap COLOKIN hp nya dulu han, jgn lupa mode debugging nya ya
+//
+//            })
 
 
 

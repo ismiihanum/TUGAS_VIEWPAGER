@@ -4,7 +4,17 @@
             "outputFile": "D:\\TGS SMT 6\\MOBILE PROGRAMMING\\tugas-viewpager-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\24d3e7fc2f80e2ff2f1447dd82cfab01\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\eecc01808dc91b1a4936dd608bdc27d2\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\661a1303471af2eef3d6179998078541\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -20,16 +30,6 @@
                         "endLines": "6",
                         "endColumns": "12",
                         "endOffsets": "289"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\1b82370d95c45bf3720906cbbbe1ad49\\res\\values-v16\\values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
                     }
                 }
             ]
